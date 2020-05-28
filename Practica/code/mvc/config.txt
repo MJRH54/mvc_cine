@@ -1,0 +1,4 @@
+user:mjrh54
+password:marcojair54
+host:localhost
+database:Cine
